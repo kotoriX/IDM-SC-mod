@@ -18,7 +18,7 @@ def info(event: typing.Union[MySignalEvent, SignalEvent]) -> str:
     Код лежит здесь:
     https://github.com/Elchinchel/IDM
 
-    Основано на IDM [llordrall|Юрия Юшманова]:
+    Основано на IDM vk.com/llordrall
     https://github.com/LordRalInc/IDM
 
     Информация о чате:
