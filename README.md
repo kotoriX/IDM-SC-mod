@@ -1,11 +1,4 @@
 # IDM - Iris Duty Manager
-
-## Содержание
-1. [Вступление](https://github.com/LordRalInc/IDM#Вступление)
-2. [Как установить](https://github.com/LordRalInc/IDM#Как-установить)
-3. [Как обновить](https://github.com/LordRalInc/IDM#Как-обновить)
-4. [Сигналы](https://github.com/LordRalInc/IDM#Сигналы)
-
 ## Вступление
 
 Этот проект есть ни что иное как Дежурный для [Iris | Чат-менеджер](https://vk.com/iris_cm).
@@ -31,7 +24,7 @@
 (это две команды, после каждой нужно нажимать Enter)
 ```bash
 rm -rf IDM-SC-mod
-git clone https://github.com/Elchinchel/IDM-SC-mod.git
+git clone https://github.com/kotoriX/iris_duty
 ```
 Далее переходим во вкладку *Web* и нажимаем *Reload * `имя аккаунта`.pythonanywhere.com
 
@@ -107,20 +100,9 @@ cp database.json IDM/database.json
 Так же обрабатываются все стандартные сигналы, кроме `hereApi` и `ignoreMessages`. О стандартных сигналах Вы можете узнать в [статье](https://vk.com/@iris_cm-api2).
 
 
-## Благодарности
-
 Спасибо за исходный код:
 
-[Юрий Юшманов](https://vk.com/llordrall)
+[Maksim](https://vk.com/kotori.dark)
 
-Спасибо за помощь в тестировании:
-
-[Ридэль Яумбаев](https://vk.com/ss_20)
-
-[Влад Богданов](https://vk.com/gamtz)
-
-[Владислав Джениа](https://vk.com/klubnishhhka)
-
-[Димитрий Ким](https://vk.com/iris_wolf)
 
 
