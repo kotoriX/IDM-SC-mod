@@ -60,7 +60,7 @@ git clone https://github.com/kotoriX/iris_duty
 ```bash
 cp IDM/database.json database.json
 rm -rf IDM-SC-mod
-git clone https://github.com/Elchinchel/IDM-SC-mod.git
+git clone https://github.com/kotorix/iris_duty
 cp database.json IDM/database.json
 ```
 
