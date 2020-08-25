@@ -102,7 +102,7 @@ cp database.json IDM/database.json
 
 Спасибо за исходный код:
 
-[Maksim](https://vk.com/kotori.dark)
+[Никита](https://vk.com/naitex)
 
 
 
