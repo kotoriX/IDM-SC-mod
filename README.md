@@ -23,8 +23,8 @@
 После загрузки консоли набираем в консоли
 (это две команды, после каждой нужно нажимать Enter)
 ```bash
-rm -rf iris_duty
-git clone https://github.com/kotoriX/iris_duty
+rm -rf IDM-SC-mod
+git clone https://github.com/kotoriX/IDM-SC-mod
 ```
 Далее переходим во вкладку *Web* и нажимаем *Reload * `имя аккаунта`.pythonanywhere.com
 
